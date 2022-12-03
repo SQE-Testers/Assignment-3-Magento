@@ -17,6 +17,7 @@ When starting a project, the easiest way to go is Magento project structure, whi
 A better alternative is to structure your project using old-fashioned modules and to think of each module as a small vue-cli project, decreasing the downsides explained above, so you get something like this:
 
 
+
 ![Micro Services](https://i.imgur.com/tln2Yys.png)
 
 # 3. Class/Components Reusability
