@@ -140,3 +140,15 @@ In the example above, we first created an array score, then converted it into a 
 
 ![workers](https://i.imgur.com/Sa2Uzha.png)
 
+
+
+## References
+
+- https://www.royalcyber.com/blog/ecommerce/commerce/magento/why-would-you-choose-progressive-web-application-for-magento-2/#:~:text=How%20is%20PWA%20used%20for,(fetch%20and%20push%20data).
+
+- https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/cache_for_frontdevs.html
+
+- https://magefan.com/blog/what-is-lazy-loading
+
+- https://www.freecodecamp.org/news/how-web-storage-works/
+
